@@ -1,0 +1,102 @@
+{
+  "year": "2024",
+  "session": "NCK Paper 2 Batch 5",
+  "paper": "P2: Psychiatric Nursing",
+  "source": "NCK Paper 2 Batch 5 Revision",
+  "questions": [
+    {
+      "q": "Ever since he has been admitted to the psychiatric unit, a patient has been sitting in a chair looking out the window. He refuses to move but will not speak. What type of schizophrenia is this patient experiencing?",
+      "opts": ["Paranoid", "Undifferentiated", "Catatonic", "Residual"],
+      "ans": 2,
+      "exp": "Catatonic schizophrenia is characterized by motor immobility (stupor), mutism, negativism, or excessive purposeless motor activity. The patient exhibits stupor and refusal to speak."
+    },
+    {
+      "q": "The nurse assesses a client who is diagnosed with generalized anxiety disorder. Which of the following best helps to identify the client's present level of functioning?",
+      "opts": ["Memory", "Dizziness", "Fatigue", "Behavior"],
+      "ans": 3,
+      "exp": "Observing the client's behavior (e.g., ability to perform ADLs, interact with others, follow routines) is the best indicator of current functional level."
+    },
+    {
+      "q": "Nurse Karen is caring for a patient diagnosed with bulimia. The most appropriate initial goal for a client diagnosed with bulimia is to;",
+      "opts": [
+        "Avoid shopping for large amounts of food",
+        "Control eating impulses",
+        "Identify anxiety causing situations"
+      ],
+      "ans": 2,
+      "exp": "The initial goal is to help the client identify triggers (anxiety-causing situations) that lead to binge-purge cycles. Once triggers are identified, coping strategies can be developed."
+    },
+    {
+      "q": "A female client who is at risk for suicide needs close supervision. To best ensure the client's safety, nurse Wambui should;",
+      "opts": [
+        "Check the client frequently at irregular intervals through the night",
+        "Assure the client that the nurse will hold in confidence anything the client says",
+        "Repeatedly discuss previous suicide attempts with the client",
+        "Disregard decreased communication by the client because this is common in suicidal clients"
+      ],
+      "ans": 0,
+      "exp": "Suicide precautions require frequent, irregular checks (q15min) to prevent the client from predicting check times and attempting suicide. Consistency and vigilance are key."
+    },
+    {
+      "q": "For a female client with anorexia nervosa, nurse Jimmy is aware that which goal takes the highest priority?",
+      "opts": [
+        "The client will establish adequate daily nutritional intake",
+        "The client will make a contract with the nurse that sets a target weight",
+        "The client will identify self-perceptions about body size as unrealistic",
+        "The client will verbalize the possible physiological consequences of self-starvation"
+      ],
+      "ans": 0,
+      "exp": "Physical stabilization (nutritional intake) is the highest priority in anorexia nervosa to prevent life-threatening complications like electrolyte imbalance, cardiac arrhythmias, and organ failure."
+    },
+    {
+      "q": "When interviewing the parents of an injured child, which one of the following is the strongest indicator that child abuse may be a problem?",
+      "opts": [
+        "The injury isn't consistent with the history or the child's age",
+        "The mother and father tell different stories regarding what happened",
+        "The family is poor",
+        "The parents are argumentative and demanding with the emergency department personnel"
+      ],
+      "ans": 0,
+      "exp": "A discrepancy between the injury pattern and the history provided (e.g., a fracture inconsistent with a fall) is the strongest indicator of possible abuse. Inconsistent stories or parental behavior are also suspicious but less specific."
+    },
+    {
+      "q": "In the emergency department, a client with facial lacerations states that her husband beat her with a shoe. After the health care team repairs her lacerations, she waits to be seen by the crisis intake nurse, who will evaluate the continued threat of violence. Suddenly the client's husband arrives, shouting that he wants to 'finish the job'. What is the first priority of the health care worker who witnesses this scene?",
+      "opts": [
+        "Remaining with the client and staying calm",
+        "Calling the security guard and another staff member for assistance",
+        "Telling the client's husband that he must leave at once",
+        "Determining why the husband feels so angry"
+      ],
+      "ans": 1,
+      "exp": "The immediate priority is to ensure safety by calling security and additional staff to handle the violent individual. The worker should not confront the husband alone or leave the client vulnerable."
+    },
+    {
+      "q": "A female client begins to experience alcoholic hallucinations. What is the best nursing intervention at this time?",
+      "opts": [
+        "Keeping the client restrained in bed",
+        "Checking the client's blood pressure every 15 minutes and offering juices",
+        "Providing a quiet environment and administering medication as needed and prescribed",
+        "Restraining the client and measuring the blood pressure every 30 minutes"
+      ],
+      "ans": 2,
+      "exp": "Alcoholic hallucinations (part of alcohol withdrawal) require a calm environment and pharmacologic management (benzodiazepines) to reduce agitation and prevent progression to delirium tremens."
+    },
+    {
+      "q": "What assessment finding is most consistent with early alcohol withdrawal?",
+      "opts": [
+        "Heart rate of 120 to 140 beats per minute",
+        "Heart rate of 50 to 60 beats per minute",
+        "Blood pressure of 100/70 mmHg",
+        "Blood pressure of 140/80 mmHg"
+      ],
+      "ans": 0,
+      "exp": "Early alcohol withdrawal presents with sympathetic overactivity: tachycardia (>100 bpm), hypertension, tremors, anxiety, and diaphoresis."
+    },
+    {
+      "q": "Which is the first step in the qualitative research process?",
+      "opts": ["Identifying the research problem", "Literature review", "Data collection", "Data analysis"],
+      "ans": 0,
+      "exp": "The first step in any research process is identifying and defining the research problem or question."
+    }
+  ]
+}

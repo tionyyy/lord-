@@ -1,0 +1,406 @@
+{
+  "year": "2024",
+  "session": "NCK Paper 2 Batch 6",
+  "paper": "P2: Psychiatric & Leadership",
+  "source": "NCK Paper 2 Batch 6 Revision",
+  "questions": [
+    {
+      "q": "The client has a long history of schizophrenia which has been controlled by haloperidol. During an admission assessment resulting from the exacerbation of the disease, the nurse notes continuous restlessness and fidgeting. Which medication would the nurse expect the physician to prescribe for this client?",
+      "opts": ["Haloperidol", "Fluphenazine decanoate (Moderate) injection", "Clozapine", "Trihexyphenidyl (artane)"],
+      "ans": 3,
+      "exp": "Continuous restlessness and fidgeting (akathisia) is an extrapyramidal side effect of antipsychotics like haloperidol. Trihexyphenidyl (Artane) is an anticholinergic used to treat EPS."
+    },
+    {
+      "q": "A client is admitted to an inpatient psychiatric unit with a diagnosis of major depressive disorder. On assessment, the nurse would expect all the following except;",
+      "opts": [
+        "Loss of interest in almost all activities and anhedonia",
+        "A change of more than 5% of bodyweight in 1 month",
+        "Fluctuation between increased energy and loss of energy",
+        "Psychomotor retardation or agitation"
+      ],
+      "ans": 2,
+      "exp": "Fluctuation between increased energy and loss of energy is characteristic of bipolar disorder, not major depressive disorder. Major depression involves persistent low mood and anhedonia."
+    },
+    {
+      "q": "Which of the following is not a symptom of mania",
+      "opts": [
+        "Thoughts fragmented, flight of ideas noted",
+        "Mood euphoric and expansive. Rates mood a 10/10",
+        "Pacing halls throughout the day. Exhibits poor impulse control",
+        "Hallucinations"
+      ],
+      "ans": 3,
+      "exp": "Hallucinations are not a core symptom of mania; they may occur in severe mania with psychotic features but are not required for diagnosis. Mania includes grandiosity, decreased need for sleep, pressured speech, and risky behavior."
+    },
+    {
+      "q": "A client notifies a staff member of current suicidal ideations. Which intervention by the nurse would take priority?",
+      "opts": [
+        "Place the client on a one-on-one conversation",
+        "Determine if the client has a specific plan to commit suicide",
+        "Assess for past history of suicide attempts",
+        "Notify all staff members and place the client on suicide precautions"
+      ],
+      "ans": 1,
+      "exp": "When a client reports suicidal ideation, the priority is to assess for intent and a specific plan (means, lethality, access) to determine immediate risk. This guides the level of precautions needed."
+    },
+    {
+      "q": "Which is a predisposing factor in the diagnosis of autism?",
+      "opts": [
+        "Having a sibling diagnosed with mental retardation",
+        "Congenital Rubella",
+        "Dysfunctional family systems",
+        "Inadequate ego development"
+      ],
+      "ans": 1,
+      "exp": "Congenital rubella is a known biological risk factor for autism spectrum disorder. Other factors include genetic mutations and prenatal exposure to certain drugs."
+    },
+    {
+      "q": "The nurse on an inpatient pediatric psychiatric unit is admitting a client diagnosed with an autistic disorder. Which would the nurse expect to assess?",
+      "opts": [
+        "A strong connection with siblings",
+        "An active imagination",
+        "Abnormalities in physical appearance",
+        "Absence of language"
+      ],
+      "ans": 3,
+      "exp": "Autism spectrum disorder is characterized by deficits in social communication, including delayed or absent language, as well as restricted, repetitive behaviors."
+    },
+    {
+      "q": "Which is a DSM-V-TR criterion for the diagnosis of attention deficit/hyperactivity disorder?",
+      "opts": ["Inattention", "Recurrent and persistent thoughts", "Physical aggression", "Anxiety and panic attacks"],
+      "ans": 0,
+      "exp": "ADHD criteria include persistent inattention and/or hyperactivity-impulsivity that interferes with functioning. The other options are not diagnostic criteria."
+    },
+    {
+      "q": "When admitting a child diagnosed with conduct disorder, which symptom would the nurse expect to assess?",
+      "opts": [
+        "Excessive distress about separation from home and family",
+        "Repeated complaints of physical symptoms such as headaches and stomach aches",
+        "History of cruelty towards people and animals",
+        "Confabulation when confronted with wrong doing"
+      ],
+      "ans": 2,
+      "exp": "Conduct disorder involves persistent patterns of violating others' rights and age-appropriate norms, including aggression to people and animals, destruction of property, deceitfulness, and serious rule violations."
+    },
+    {
+      "q": "A client has an IQ level of 30. Which cognitive/educational capability would the nurse expect to observe?",
+      "opts": [
+        "The client is capable of academic skills to second grade level",
+        "The client with supervision may respond to minimal training in self help",
+        "The client would profit only from Systematic habit training",
+        "The client is capable of academic skills to class 2 level"
+      ],
+      "ans": 2,
+      "exp": "IQ 30 falls in the severe intellectual disability range. Individuals with severe ID may benefit from systematic habit training and basic self-care skills with supervision; they generally do not achieve academic skills beyond very basic."
+    },
+    {
+      "q": "Thiamine deficiency is a major problem for clients diagnosed with alcohol dependance. Of the presenting signs and symptoms caused by this deficiency, what is most life threatening?",
+      "opts": [
+        "Paralysis of ocular muscles, diplopia, ataxia, somnolence and stupor",
+        "Impaired mental functioning, apathy, euphoria or depression, sleep disturbance, increased confusion leading to coma",
+        "Nausea and vomiting, anorexia, weight loss, abdominal pain, jaundice, oedema, anemia and blood coagulation abnormalities",
+        "Impaired platelet production and risk for hemorrhage"
+      ],
+      "ans": 1,
+      "exp": "Thiamine deficiency can cause Wernicke's encephalopathy (ophthalmoplegia, ataxia, confusion) which can progress to Korsakoff's psychosis and coma. The most life-threatening is progression to coma and potential death. Option 1 describes Wernicke's, option 2 describes progression to coma."
+    },
+    {
+      "q": "A client with a short history of heavy drinking is seen in the emergency department. The client has a pulse rate of 120 beats/min and respirations of 24 breaths/min, and blood pressure of 180/90mmHg. He is diaphoretic and tremulous. The client is confused and picks at extremities. What would be the suspected cause of these symptoms?",
+      "opts": ["Wernicke-Korsakoff syndrome", "Alcohol amnesic disorder", "Alcohol withdrawal delirium", "Acute alcoholic myopathy"],
+      "ans": 2,
+      "exp": "These symptoms (tachycardia, hypertension, diaphoresis, tremors, confusion) are classic for alcohol withdrawal delirium (delirium tremens), a severe form of withdrawal."
+    },
+    {
+      "q": "A client is diagnosed with somatization disorder. When planning care, which nursing intervention should be included?",
+      "opts": [
+        "Avoid discussing symptoms experienced",
+        "Encourage exploration of the source of anxiety",
+        "Remind the client about previous negative test results",
+        "Redirect the client to the physician when somatic complaints are expressed"
+      ],
+      "ans": 1,
+      "exp": "Helping the client explore underlying anxiety (the psychological cause) is therapeutic. Avoidance or redirection may reinforce the disorder. Reminding about negative tests may increase frustration."
+    },
+    {
+      "q": "A client is exhibiting sedation, auditory hallucinations, akathisia and anhedonia. The client is prescribed haloperidol 5mg tid, and trihexyphenidyl 4mg bd. Which statements about these medications is accurate?",
+      "opts": [
+        "The trihexyphenidyl would address the client's auditory hallucinations",
+        "The trihexyphenidyl would counteract akathisia",
+        "The haloperidol would address the anhedonia",
+        "The haloperidol would decrease the amount of sedation exhibited"
+      ],
+      "ans": 1,
+      "exp": "Trihexyphenidyl is an anticholinergic used to treat extrapyramidal side effects like akathisia. Haloperidol is an antipsychotic used for hallucinations but can cause sedation and anhedonia."
+    },
+    {
+      "q": "Which intervention is a nurse's priority when working with a client suspected of having a conversion?",
+      "opts": [
+        "Avoid situations in which secondary gains may occur",
+        "Confront the client with the fact that anxiety is the cause of physical symptoms",
+        "Teach the client alternative coping skills to use during times of stress",
+        "Monitor assessments, lab reports, and vital signs to rule out organic pathology"
+      ],
+      "ans": 3,
+      "exp": "The priority is to rule out organic pathology before concluding the symptoms are due to conversion disorder. Medical assessment must be thorough to ensure no underlying physical illness is missed."
+    },
+    {
+      "q": "Which of the following factors does not place a client at risk for a suicide attempt?",
+      "opts": ["Previous suicide attempts", "Access to lethal methods", "Isolation", "Lack of a physical illness"],
+      "ans": 3,
+      "exp": "Lack of physical illness is not a risk factor; in fact, chronic physical illness can increase suicide risk. Previous attempts, access to lethal means, and isolation are established risk factors."
+    },
+    {
+      "q": "Nurse Wambui, the nursing services manager at Embu PHG has a passion for serving her staff before being served. She also prefers to be a teacher first before being a leader, which is characteristic of;",
+      "opts": ["Charismatic leader", "Transactional leader", "Servant leader", "Charismatic and transactional leader"],
+      "ans": 2,
+      "exp": "Servant leadership emphasizes serving others, putting staff needs first, and developing people. The description matches servant leader characteristics."
+    },
+    {
+      "q": "Mrs. Njue, the nursing director at Embu County is described as a charismatic leader. Which of the following statements best describes her?",
+      "opts": [
+        "Possesses inspirational quality that makes followers get attracted to him and regard him with reference",
+        "Acts as he does because he expects that his behavior will yield positive results",
+        "Uses visioning as the core of his leadership",
+        "Matches his leadership style to the situation at hand"
+      ],
+      "ans": 0,
+      "exp": "Charismatic leadership relies on personal charm, inspiration, and the ability to attract followers through personality rather than formal authority."
+    },
+    {
+      "q": "One leadership theory state that 'leaders are born and not made' which refers to which of the following theories?",
+      "opts": ["Trait", "Charismatic", "Great man", "Situational"],
+      "ans": 2,
+      "exp": "The 'Great Man' theory (and early trait theory) suggests that leaders are born with inherent qualities that make them effective leaders."
+    },
+    {
+      "q": "Which of the following best fits a situation where the followers are self-directed, experts and matured individuals?",
+      "opts": ["Democratic", "Authoritarian", "Laissez-faire", "Bureaucratic"],
+      "ans": 2,
+      "exp": "Laissez-faire (hands-off) leadership is most appropriate when followers are highly competent, self-motivated, and require minimal supervision."
+    },
+    {
+      "q": "Which of the following does not characterize a transactional leader?",
+      "opts": [
+        "Focuses on management tasks",
+        "Is a caretaker",
+        "Uses trade-offs to meet goals",
+        "Inspires others with vision"
+      ],
+      "ans": 3,
+      "exp": "Transactional leaders focus on supervision, organization, and performance monitoring; they use rewards and punishments. Inspiring with vision is characteristic of transformational leadership."
+    },
+    {
+      "q": "Which of the following guidelines should be least considered in formulating objectives for nursing care?",
+      "opts": ["Written nursing care plan", "Holistic approach", "Prescribed standards staff preferences", "Staff preferences"],
+      "ans": 3,
+      "exp": "Staff preferences should be the least considered when formulating patient care objectives; care should be based on patient needs, evidence, and standards, not staff convenience."
+    },
+    {
+      "q": "Nurse Maria considers shifting to transformational leadership. Which of the following statements best describes this type of leadership?",
+      "opts": [
+        "Uses visioning as the essence of leadership",
+        "Serves the followers rather than being served",
+        "Maintains full trust and confidence in the subordinates",
+        "Possesses innate charisma that makes others feel good in his presence"
+      ],
+      "ans": 0,
+      "exp": "Transformational leadership is centered on vision, inspiration, and motivating followers to achieve beyond expectations. Visioning is a core component."
+    },
+    {
+      "q": "Which of the following is an example of a primary source in a research study?",
+      "opts": [
+        "Published commentary on the findings of another study",
+        "A doctoral dissertation that critiques all research in the area of attention deficit disorder",
+        "A textbook of medical-surgical nursing",
+        "A journal article about a study that used large, previously unpublished databases generated by the Kenya National Bureau of Statistics"
+      ],
+      "ans": 3,
+      "exp": "A primary source is original research or raw data. The journal article describing a study using previously unpublished data is a primary source; textbooks, commentaries, and literature reviews are secondary."
+    },
+    {
+      "q": "Nurse Hersi tells one of the staff 'I don't have time to discuss the matter with you now. See me in my office later', when the latter asks if they can talk about an issue. Which of the following conflict resolution strategies did she use?",
+      "opts": ["Smoothing", "Compromising", "Avoidance", "Restriction"],
+      "ans": 2,
+      "exp": "Avoidance is delaying or ignoring the conflict. The nurse is postponing discussion rather than addressing it immediately."
+    },
+    {
+      "q": "One of the staff working under nurse Wanjala is experiencing burnout. What is the best thing for the team leader to do?",
+      "opts": [
+        "Advise her staff to go on a vacation",
+        "Ignore her observations, it will be resolved even without her intervention",
+        "Remind her to show loyalty to the institution",
+        "Let the staff vent her feelings and ask her how you can be of help"
+      ],
+      "ans": 3,
+      "exp": "When a staff member is experiencing burnout, the leader should listen empathetically, validate feelings, and offer support or resources. This helps prevent further deterioration."
+    },
+    {
+      "q": "Performance appraisal consists of all the following activities except;",
+      "opts": [
+        "Setting specific standards and activities for individual performance",
+        "Using agency standard as a guide",
+        "Determine areas of strength and weaknesses",
+        "Focusing activity on the correction of identified behavior"
+      ],
+      "ans": 3,
+      "exp": "Performance appraisal should focus on development, not just correction. The primary purpose is to identify strengths, weaknesses, and areas for improvement in a constructive manner."
+    },
+    {
+      "q": "Which of the following is not true about performance appraisal?",
+      "opts": [
+        "Informing the staff about the specific impressions of their work to help improve their performance",
+        "A verbal appraisal is an acceptable substitute for a written report",
+        "Patients are the best source of information regarding personnel appraisal",
+        "The outcome of performance appraisal rests primarily with the staff"
+      ],
+      "ans": 1,
+      "exp": "Verbal appraisal is not a substitute for written documentation; written records are essential for fairness, legal reasons, and tracking progress over time."
+    },
+    {
+      "q": "Onyango is tasked to organize the new wing of the hospital. She was given the authority to do so as she deems fit. She is aware that the director of nursing has substantial trust and confidence in her capabilities, communicates through downward and upward channels and usually uses the ideas and opinions of her staff. Which of the following is her style of management?",
+      "opts": ["Benevolent-authoritative", "Consultative", "Exploitive-authoritative", "Charismatic"],
+      "ans": 1,
+      "exp": "Consultative management involves seeking input from subordinates while retaining decision-making authority. The description matches consultative style."
+    },
+    {
+      "q": "Which of the following is not included in an organizational structure?",
+      "opts": ["Level of authority", "Lines of communication", "Span of control", "Unity of direction"],
+      "ans": 3,
+      "exp": "Unity of direction is a principle of management (one plan for one objective) but is not typically depicted in organizational structure charts; authority, communication lines, and span of control are structural elements."
+    },
+    {
+      "q": "The process of assigning competent people to fill the roles designed in the hierarchy is referred to as;",
+      "opts": ["Staffing", "Scheduling", "Recruitment", "Induction"],
+      "ans": 0,
+      "exp": "Staffing is the process of selecting, placing, and assigning qualified individuals to positions in the organization."
+    },
+    {
+      "q": "Which of the following is not a documentary requirement for the applicants for nurse staff position?",
+      "opts": [
+        "Certificate of previous employment",
+        "Record of related learning experience",
+        "Membership to accredited professional organization",
+        "Professional identity card"
+      ],
+      "ans": 1,
+      "exp": "Record of related learning experience (RLE) is typically required for nursing students, not for job applicants. Employment certificates, professional membership, and ID are common requirements."
+    },
+    {
+      "q": "Which of the following statements refers to criteria?",
+      "opts": [
+        "Agreed on level of nursing care",
+        "Step by step guidelines",
+        "Characteristics used to measure the level of nursing care",
+        "Statements which guide the group in decision making and problem solving"
+      ],
+      "ans": 2,
+      "exp": "Criteria are standards or characteristics against which performance or outcomes are measured. They are used to evaluate quality of care."
+    },
+    {
+      "q": "Random sampling or probability sampling includes all of the following techniques except;",
+      "opts": ["Simple random sampling", "Stratified random sampling", "Cluster sampling", "Purposive sampling"],
+      "ans": 3,
+      "exp": "Purposive sampling is a non-probability sampling method where subjects are selected based on specific characteristics. The others are probability methods."
+    },
+    {
+      "q": "Gender, age, class, religion type of disease, blood groups are measured in;",
+      "opts": ["Nominal scale of measurement", "Ordinal scale of measurement", "Interval scale of measurement", "Ratio scale of measurement"],
+      "ans": 0,
+      "exp": "Nominal scale classifies data into categories with no inherent order (e.g., gender, blood type, religion). Age can be ordinal or ratio depending on how measured; here it's likely categorical."
+    },
+    {
+      "q": "The variable which is influenced by the intervention of the researcher is called;",
+      "opts": ["Independent", "Dependent", "Discrete", "Extraneous"],
+      "ans": 1,
+      "exp": "The dependent variable is the outcome that is measured and may be influenced by the independent variable (intervention)."
+    },
+    {
+      "q": "The statistical approach which helps the investigator to decide whether the outcome of the study is a result of factors planned within design of the study or determined by chance is called;",
+      "opts": ["Descriptive statistics", "Inferential statistics", "Normal distribution", "Standard deviation"],
+      "ans": 1,
+      "exp": "Inferential statistics allow researchers to draw conclusions about a population based on sample data and assess the probability that results are due to chance (hypothesis testing)."
+    },
+    {
+      "q": "Which of the following is not a standard of central tendency?",
+      "opts": ["Mean", "Median", "Mode", "Variance"],
+      "ans": 3,
+      "exp": "Variance is a measure of dispersion, not central tendency. Mean, median, and mode are measures of central tendency."
+    },
+    {
+      "q": "Which measure of central tendency is influenced by extreme scores and skewed distributions?",
+      "opts": ["Mean", "Median", "Mode", "Range"],
+      "ans": 0,
+      "exp": "The mean is sensitive to outliers and skewed data, while median and mode are more robust."
+    },
+    {
+      "q": "Statistic which describes the interval of scores bounded by the 25th and 75th percentile ranks is;",
+      "opts": ["Interquartile range", "Confidence interval", "Standard deviation", "Variance"],
+      "ans": 0,
+      "exp": "Interquartile range (IQR) is the range between Q1 (25th percentile) and Q3 (75th percentile)."
+    },
+    {
+      "q": "Large standard deviations suggest that;",
+      "opts": [
+        "Scores are probably widely scattered",
+        "There is little difference among scores",
+        "Mean, median and modes are the same",
+        "The scores are not normally distributed"
+      ],
+      "ans": 0,
+      "exp": "A large standard deviation indicates that data points are spread out over a wider range (more variability)."
+    },
+    {
+      "q": "Skewness is a measure;",
+      "opts": [
+        "Of the asymmetry of the probability distribution",
+        "Decides the distribution may have a high or low variance",
+        "Of central tendency",
+        "None of the above"
+      ],
+      "ans": 0,
+      "exp": "Skewness measures the asymmetry of a distribution. Positive skew = tail on right, negative skew = tail on left."
+    },
+    {
+      "q": "A sample method which involves a random start and then proceeds with the selection of every kth element from then onwards (where k = population size/sample size);",
+      "opts": ["Simple random sampling", "Stratified random sampling", "Systematic sampling", "Snowball sampling"],
+      "ans": 2,
+      "exp": "Systematic sampling selects every kth element after a random start. k = N/n."
+    },
+    {
+      "q": "The standard deviation of a sampling distribution is referred to as the;",
+      "opts": ["Test statistic", "Standard error", "Confidence interval", "Test of significance"],
+      "ans": 1,
+      "exp": "Standard error is the standard deviation of a sampling distribution of a statistic (e.g., mean)."
+    },
+    {
+      "q": "Sampling bias or the error resulting from taking a nonrandom sample of a population include;",
+      "opts": ["Pre-screening", "Self-selection bias", "Selection from a specific area", "All of the above"],
+      "ans": 3,
+      "exp": "All listed options are sources of sampling bias: pre-screening (only certain types), self-selection (volunteer bias), and geographic restriction."
+    },
+    {
+      "q": "The number of new cases that occur within a specific population within a defined time interval is;",
+      "opts": ["Point prevalence", "Incidence", "Period prevalence", "Lifetime prevalence"],
+      "ans": 1,
+      "exp": "Incidence measures new cases over a specified time period. Prevalence measures existing cases at a point in time or over a period."
+    },
+    {
+      "q": "The statistics used to explain the chances of being exposed to a risk among those with the diagnosis divided by exposure to the risk among those without the diagnosis is;",
+      "opts": ["Phi coefficient", "Odds ratio", "Chi square", "Kappa"],
+      "ans": 1,
+      "exp": "Odds ratio compares the odds of exposure in cases vs. controls, commonly used in case-control studies."
+    },
+    {
+      "q": "The phi coefficient is used for correlations between;",
+      "opts": ["Two continuous variables", "Two sets of means", "Two dichotomous variables", "Two rating scales"],
+      "ans": 2,
+      "exp": "Phi coefficient is used for the correlation between two dichotomous variables (2x2 contingency tables)."
+    },
+    {
+      "q": "A hypothesis which a researcher tries to disprove is called;",
+      "opts": ["Research hypothesis", "Null hypothesis", "Alternate hypothesis", "Positive hypothesis"],
+      "ans": 1,
+      "exp": "The null hypothesis (H0) is a statement of no effect or no difference that the researcher attempts to reject."
+    }
+  ]
+}
